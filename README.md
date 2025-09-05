@@ -1,6 +1,7 @@
 # Parth Royal
-* 📧 Email: parthroyaal@gmail.com
+* 📧 Email: parthroyal2024@gmail.com
 * 💻 GitHub: github.com/parthroyaal
+* 🆔 LinkedIn: https://www.linkedin.com/in/parthroyal/
 
 **Education**
 
@@ -11,7 +12,7 @@
 
     * **Master of Computer Applications (MCA)**
     * 2022-2024
-    * 7.80 CGPA
+    * 7.56 CGPA
 
 
 **Skills**
@@ -31,11 +32,7 @@
     * Domain Management (Records, Domain to Server Pointing Using A Records, Email Routing Using Other Records)
     * Typing 60+wpm
       
-**Experience**
-* **Ginie Digital Private Limited** (Full-Stack Intern)
-    * 2022 January  - 2022 June
-    * Developed a financial report dashboard for internal users using Google Cloud Platform, Python, Pandas, ReactJS.
-    * Built a robust data pipeline using Python and Pandas.
+
 
 **Projects**
 
@@ -54,15 +51,9 @@
 * **Nifty50 Tick Data Capture & Visualization Tool (Flask + Fyers API + TradingView)**
     * Integrated TradingView Advanced Charts for interactive visualization of live and historical tick data directly within the web interface.
 
-.
-
-**Contributions**
-
-* **School of Computing Club (SOCC) Events SubComm**
-    * Planned and executed events for School of Computing Students in APG Shimla .
-
-
-**Interests**
+        * Acess Here : https://parthroyaal.github.io/replay/
+        
+.**Interests**
 
 * Artificial Intelligence
 * Web Development
